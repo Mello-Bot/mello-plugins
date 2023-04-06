@@ -1,4 +1,136 @@
 {
-    "name": "Repository's name",
-    "plugins": []
+    "name": "Mello Official Repository",
+    "plugins": [
+        {
+            "version": [
+                1,
+                0,
+                0
+            ],
+            "tag": "vf",
+            "name": "Volume Fixer",
+            "description": "Adjust bot volume per track",
+            "authors": [
+                "nico9889"
+            ]
+        },
+        {
+            "version": [
+                1,
+                0,
+                0
+            ],
+            "tag": "base",
+            "name": "Base",
+            "description": "Base plugin supplied with the bot :D",
+            "authors": [
+                "nico9889"
+            ]
+        },
+        {
+            "version": [
+                1,
+                0,
+                0
+            ],
+            "tag": "home",
+            "name": "Home",
+            "description": "Set a channel where the bot returns if left alone",
+            "authors": [
+                "nico9889"
+            ]
+        },
+        {
+            "version": [
+                1,
+                0,
+                0
+            ],
+            "tag": "autoplaylist",
+            "name": "AutoPlayList",
+            "description": "Automatically add tracks to playlist by keywords",
+            "authors": [
+                "nico9889"
+            ]
+        },
+        {
+            "version": [
+                1,
+                0,
+                0
+            ],
+            "tag": "cop",
+            "name": "Cop",
+            "description": "This is the police!",
+            "authors": [
+                "nico9889"
+            ]
+        },
+        {
+            "version": [
+                1,
+                0,
+                0
+            ],
+            "tag": "autoplay",
+            "name": "AutoPlay",
+            "description": "After a song autoqueue another song",
+            "authors": [
+                "m3rk",
+                "nico9889"
+            ]
+        },
+        {
+            "version": [
+                1,
+                0,
+                0
+            ],
+            "tag": "w2g",
+            "name": "Watch Together",
+            "description": "Permits you to create a watch together session from the chat",
+            "authors": [
+                "nico9889"
+            ]
+        },
+        {
+            "version": [
+                1,
+                0,
+                0
+            ],
+            "tag": "autoafk",
+            "name": "AutoAFK",
+            "description": "Check periodically if an user quit the audio and move it into the AFK channel",
+            "authors": [
+                "nico9889"
+            ]
+        },
+        {
+            "version": [
+                1,
+                0,
+                0
+            ],
+            "tag": "media",
+            "name": "Media",
+            "description": "Bot player commands!",
+            "authors": [
+                "nico9889"
+            ]
+        },
+        {
+            "version": [
+                1,
+                0,
+                0
+            ],
+            "tag": "autochannel",
+            "name": "AutoChannel",
+            "description": "Create channels automagically",
+            "authors": [
+                "nico9889"
+            ]
+        }
+    ]
 }

@@ -1,0 +1,1 @@
+{"version": [1, 0, 0], "tag": "autoafk", "name": "AutoAFK", "description": "Check periodically if an user quit the audio and move it into the AFK channel", "authors": ["nico9889"]}
